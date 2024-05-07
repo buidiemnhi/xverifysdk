@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
     s.platform          = :ios
     # change the source location
-    s.source            = { :http => 'https://github.com/buidiemnhi/xverifysdk.git', :branch => 'main' } 
+    s.source            = { :http => 'https://github.com/buidiemnhi/xverifysdk.git', :branch => 'main', :tag => '0.0.2' } 
     s.ios.deployment_target = '13.0'
     # 8 Khai báo file code 
     s.source_files = "xverifysdk/**/*.{h,m}"
