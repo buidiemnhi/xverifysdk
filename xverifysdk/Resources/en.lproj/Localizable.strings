@@ -1,0 +1,10 @@
+"put_iphone_near_chip" = "Put the iPhone near the eID card";
+"login_to_eid" = "Login to eID card...";
+"read" = "Read";
+"tag_not_valid" = "eID card not valid";
+"tag_more_than_one" = "There are more than one eID card near iPhone. Only one accept at a time.";
+"tag_connection_error" = "Connecting error. Please try again.";
+"tag_mrz_not_valid" = "MRZ is invalid";
+"tag_error" = "Error during reading eID card";
+"tag_error_try_again" = "Error during reading eID card. Please try again.";
+"tag_success" = "eID card reading successfully.";

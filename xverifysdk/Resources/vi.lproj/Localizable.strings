@@ -1,0 +1,10 @@
+"put_iphone_near_chip" = "Để iPhone gần với thẻ chip CCCD";
+"login_to_eid" = "Đăng nhập vào thẻ CCCD...";
+"read" = "Đọc";
+"tag_not_valid" = "Thẻ chip CCCD không hợp lệ";
+"tag_more_than_one" = "Có nhiều thẻ chip CCCD gần iPhone. Lưu ý chỉ đọc 1 lần 1 thẻ.";
+"tag_connection_error" = "Kết nối không thành công. Xin hãy thử lại.";
+"tag_mrz_not_valid" = "MRZ không hợp lệ.";
+"tag_error" = "Xảy ra sự cố khi đọc thẻ.";
+"tag_error_try_again" = "Xảy ra sự cố khi đọc thẻ. Xin hãy thử lại.";
+"tag_success" = "Thẻ đọc thành công";
