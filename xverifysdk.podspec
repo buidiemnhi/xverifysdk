@@ -21,6 +21,7 @@ Pod::Spec.new do |s|
     s.dependency 'ObjectMapper'
     s.dependency 'SwiftDate'
     s.dependency 'PINCache'
+    s.dependency 'SwiftyJSON'
     s.dependency 'GoogleMLKit/Vision'
     s.dependency 'GoogleMLKit/FaceDetection'
     s.dependency 'GoogleMLKit/TextRecognition'
