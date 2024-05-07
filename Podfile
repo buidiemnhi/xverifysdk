@@ -1,6 +1,6 @@
 # Uncomment the next line to define a global platform for your project
 platform :ios, '13.0'
-workspace 'x-verifysdk'
+workspace 'xverifysdk.xcworkspace'
 def sdk_dependencies
   pod 'CocoaLumberjack/Swift'
   pod 'ObjectMapper'
